@@ -1,0 +1,24 @@
+{
+  "name": "servicenswlesson12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha",
+    "start": "node .\\src\\ConsoleApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeParkerTAFE/ServiceNSWLesson12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeParkerTAFE/ServiceNSWLesson12/issues"
+  },
+  "homepage": "https://github.com/LukeParkerTAFE/ServiceNSWLesson12#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  }
+}
